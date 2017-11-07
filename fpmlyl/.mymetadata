@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="fpmlyl"
+  id="myeclipse.1509613598976"
+  context-root="/fpmlyl"
+  j2ee-spec="6.0"
+  archive="fpmlyl.war">
+  <attributes>
+    <attribute name="webrootdir" value="Webapp" />
+  </attributes>
+</project-module>
+
